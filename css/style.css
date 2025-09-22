@@ -192,6 +192,15 @@ html {
   }
 }
 
+a {
+  text-decoration:none;
+}
+
+#front_main_article_header{
+  text-align:center;
+   color:black;
+}
+
 .section_title{
   font-size:48px;
   margin:0;
@@ -374,6 +383,8 @@ html {
   font-size:20px;
   margin-top:20px;
   line-height:1.5;
+  padding-left:50px;
+  padding-right:50px;
 }
 
 #single_article_header{
