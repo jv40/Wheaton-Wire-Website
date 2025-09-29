@@ -22,6 +22,7 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "readmore-js": "^2.2.1"
   }
 }
